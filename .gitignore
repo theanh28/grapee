@@ -29,3 +29,7 @@ yarn-error.log*
 .env
 firebase.json
 package-lock.json
+
+# Docker
+Dockerfile
+.dockerignore
